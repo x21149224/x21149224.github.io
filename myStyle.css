@@ -1,0 +1,78 @@
+body{
+	text-align: center;
+	font-family:Courier New, monospace;
+	background:#ffece6;
+}
+div {
+    text-align:center;
+}
+p{
+	color:darkslategray;
+	font-family:georgian;	
+}
+
+
+#extra{
+
+}	
+.hoop{
+	text-shadow: 2px 2px green;
+	color: red;
+}
+.line{
+	text-shadow: 2px 2px green;
+	color: orange;
+}	
+h1{
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+	.flex-container {
+	display: flex;
+	background-color: MediumSeaGreen;
+	flex-direction:column;
+	justify-content:center;
+	justify-content:space-between;
+	flex-basis:27%;
+}
+	.flex-container2 {
+	display: flex;
+	background-color: MediumSeaGreen;
+	flex-direction:row;
+	justify-content:center;
+	flex-basis:60%;
+}		
+
+	.flex-container > div, .flex-container2 > div{
+	background-color: #f2f2f2;
+	margin: 10px;
+	padding: 20px;
+	font-size: 30px;
+	
+}	
+
+	.box-1{
+	flex:2;
+	order:1;
+	}
+	
+	.box-2{
+	flex:1;
+	order:2;
+	}
+	.box-3{
+	flex:1;
+	order:3;
+	}
+	
