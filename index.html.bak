@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CV</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="./style/mystyle.css">
+		
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<div class="container-fluid">
+		<a class="navbar-brand" href="#">KATARZYNA MATUSZYK</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">CV</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./Cover letter/index.html">About me</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.linkedin.com/in/kasia-matuszyk-357076112/" class="fa fa-linkedin"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+  <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
+</svg></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<br>
+<br>
+<br>
+
+
+	<div class="cont1" class="container">
+		<div class="row">
+			<div class="col-lg-8 show">
+				<h1 id="extra"><b>Katarzyna Matuszyk</b></h1>
+			</div>
+		</div>
+		<div class="row">		
+			<div class="col-lg-8 show">	
+			<h3 style="color:green";>E-mail: <span style="color:red">katarzynamatuszyk@hotmail.com</h3>
+			<h3 style="color:green";>Phone: <span style="color:red">0857570940</h3>
+			</div>
+		</div>
+
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>	
+	
+	<h3 class="hoop">EXPERIENCE</h3>		
+	<div class="accordion" id="accordionPanelsStayOpenExample">
+		<div class="accordion-item">
+		<h2 class="accordion-header" id="panelsStayOpen-headingOne">
+		<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+        2019-present
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
+      <div class="accordion-body">
+		<h3><strong>Adaptive Mobile Security</strong></h3>
+		<h4>Assistant Accountant</h4>
+		<p>Management of Account Payable Function. Mangement of general prepayment and accruals function. Audit </p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+        2018-2019
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+      <div class="accordion-body">
+		<h3><strong>Ballsbridge Hotel</strong></h3>
+		<h4>Accounts Assistant</h4>
+		<p>Assisting with preparation of monthly managemtn accounts. Accounts Payable and Accpunt Receivable function. </p>
+      
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+       2010-2018
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+      <div class="accordion-body">
+		<h3><strong>Scanlon Associates</strong></h3>
+		<h4>Payrol Specialist</h4>
+		<p>Provide Payroll service to more than 1100 pilots from countrie in Europe. </p>
+	
+      </div>
+    </div>
+  </div>
+</div>									
+<br>		
+<br>		
+<br>				
+	<h3 class="hoop">EDUCATION</h3>
+			
+	<div class="accordion" id="accordionPanelsStayOpenExample">
+		<div class="accordion-item">
+		<h2 class="accordion-header" id="panelsStayOpen-headingOne">
+		<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+        2019-present
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
+      <div class="accordion-body">
+		<h3><strong>ACCA Qualification </strong></h3>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+        2016-2018
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+      <div class="accordion-body">
+		<h3><strong>Bachelor of Business (Hons Degree) in Accounting and Finance</strong></h3>
+		<h4>Technological University Dublin</h4>
+      
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+       2011-2013
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+      <div class="accordion-body">
+		<h3><strong>Higher Certificate in Business in Accounting</strong></h3>
+		<h4>Institute of Technology Tallaght</h4>	
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</br>
+</br>
+</br>
+<div class="container">
+		<div class="row">
+			<div class="col-lg-8 show">
+						<h3 id="extra" class="hoop">SKILLS</h3>
+						
+								<p><ul>
+								<li>Accounts preparation: SAGE Accounts Production and Relate Software Accounts Production (RAP)</li>
+								<li>Sage 200 & 50</li>
+								<li>Expensify</li>
+								<li>Procure Wizard</li>
+								<li>Opera, Hotelinx</li>
+								<li>Microsoft Office [Word, Excel (Advance level), Access, PowerPoint, Outlook], Internet, e-mail.</li>
+								<li>Payroll: Thesaurs, Coolsoft and BrightPay</li>
+								<li>Alkimi</li>
+								<li>Accounts Payable / Receivable</li>
+								<li>Bank Reconciliation</li>
+								<li>Full Irish driving licence category B. (since 2005) </li>
+								</ul></p>
+			</div>
+		</div>	
+						<br>		
+						<br>		
+						<br>		
+		<div class="row">
+			<div class="col-lg-8 show">												
+						<h3 class="hoop">LANGUAGES</h3>
+						
+								<p><ul>
+								<li>English: Full professional proficiency</li>
+								<li>German: Beginner</li>
+								<li>Polish: Mother tongue</li>
+								</ul></p>	
+			</div>
+		</div>	
+						<br>
+						<br>
+						<br>
+
+						
+		<div class="row">
+			<h3 class="hoop">INTERESTS AND ACTIVITIES</h3>	
+			
+			<div class="col-lg-3 show">	<li>Cats lover</li></div>
+			<div class="col-lg-3 show">	<li>Runner</li></div>
+			<div class="col-lg-3 show">	<li>Animals Rights Activist</li></div>
+									
+		</div>
+</div>		
+</br>
+</br>
+</br>
+</br>
+</br>
+<a href="#extra">Go Back to TOP</a>
+</br>
+</br>	
+</br>
+</br>							
+																							
+	</body>	
+</html>
